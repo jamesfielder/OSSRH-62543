@@ -1,0 +1,2 @@
+# OSSRH-62543
+Setup for OSSRH
